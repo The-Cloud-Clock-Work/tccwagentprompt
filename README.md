@@ -1,4 +1,4 @@
-# master-low-level-system-prompt
+# TCCW Agent Prompt
 
 A master system prompt for AI agents and chat applications, defining a dual-state persona with strict operational protocols.
 
